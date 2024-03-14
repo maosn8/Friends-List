@@ -1,6 +1,6 @@
 import java.util.*;
 public class friends {
-    public static <Stirng> void main(String[] args) {
+    public static void main(String[] args) {
         ArrayList<String> friends = new ArrayList<>();
         ArrayList<String> bestFriends = new ArrayList<>();
         Scanner input = new Scanner(System.in);
